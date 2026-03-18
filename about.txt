@@ -1,2 +1,3 @@
 Hello My Name is John. My favorite color is black.
 My favorite color is black and blue.
+My favorite number is 3.
