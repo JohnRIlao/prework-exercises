@@ -12,8 +12,9 @@ puts 984 - 1
 # Add a comment with a copy of the error message.
 # Add a comment that describes the error message in your own words.
 
-puts 2 x 2 
+puts 2 a 2 
 puts 2 * 2 
 90 puts
-Puts 12
+puts 12
 # rb will not understand x or number first or P
+
