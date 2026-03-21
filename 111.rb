@@ -6,3 +6,4 @@ puts 2 * 2
 puts 90 / 3
 puts 3 * 4
 puts 984 - 1
+puts 1+1
